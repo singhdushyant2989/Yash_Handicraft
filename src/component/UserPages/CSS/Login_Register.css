@@ -1,0 +1,146 @@
+.breadcrumbs_area {
+    padding: 40px 0;
+}
+
+.breadcrumb_content {
+    text-align: center;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 37px;
+}
+
+.breadcrumb_content h3 {
+    color: #242424;
+    font-size: 36px;
+    text-transform: capitalize;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.breadcrumb_content ul {
+    line-height: 15px;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.breadcrumb_content li {
+    display: inline-block;
+    text-transform: capitalize;
+    font-size: 14px;
+    margin-right: 5px;
+    color: #c09578;
+}
+
+.breadcrumb_content li a {
+    color: #242424;
+    text-decoration: none;
+}
+
+.breadcrumb_content li a:hover {
+    color: #c09578;
+}
+
+.customer_login {
+    padding-bottom: 70px;
+}
+
+.accout_form form {
+    border: 1px solid #ebebeb;
+    padding: 23px  20px 29px;
+    border-radius: 5px;
+}
+.accout_form p {
+    margin-bottom: 20px;
+}
+
+.accout_form label {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 12px;
+    color: #212121;
+    cursor: pointer;
+    line-height: 12px;
+}
+
+.accout_form label:hover, .accout_form label:hover span {
+    color: #c09578;
+}
+
+label {
+    display: inline-block;
+}
+
+.accout_form input {
+    border: 1px solid #ebebeb;
+    height: 40px;
+    max-width: 100%;
+    padding: 0 20px;
+    background: none;
+    width: 100%;
+}
+
+.login_submit {
+    text-align: right;
+}
+
+.login_submit a {
+    font-size: 13px;
+    color: #c09578;
+    float: left;
+    line-height: 39px;
+    text-decoration: none;
+}
+
+.login_submit a:hover {
+    text-decoration: underline;
+}
+
+.accout_form button {
+    background: #c09578;
+    border: 0;
+    color: #fff;
+    display: inline-block;
+    height: 34px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 21px;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    transition: 0.3s;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.table-responsive .table {
+    border-left: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    border-right: 1px solid #ebebeb;
+}
+
+.table-responsive table thead {
+    background: #f2f2f2;
+    border-bottom: 1px solid #242424;
+}
+
+.table-responsive table thead tr th {
+    color: #242424;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+.table-responsive table tbody tr td {
+    border-right: 1px solid #ebebeb;
+    color: #212121;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 14px;
+    text-align: center;
+    min-width: 15px;
+}
+
+.table-responsive table tbody tr td a {
+    color: #c09578;
+    font-weight: 500;
+    text-decoration: none;
+}
+

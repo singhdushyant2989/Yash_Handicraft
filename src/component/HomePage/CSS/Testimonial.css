@@ -1,0 +1,78 @@
+.testimonial { 
+    padding-bottom: 64px;
+}
+
+.testimonial_title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.testimonial_title h1 {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #242424;
+    margin-bottom: 0;
+}
+.slick-slider button {
+    display : none !important;
+}
+.single_testimonial p {
+    padding: 0 145px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 35px;
+}
+.single_testimonial img {
+    margin: 0 auto;
+    width: inherit;
+    margin-bottom: 15px;
+}
+
+.single_testimonial span.name {
+    font-weight: 700;
+    color: #242424;
+    text-transform: uppercase;
+    font-family: "Playfair Display", serif;
+}
+
+.single_testimonial span {
+    display: block;
+    margin-bottom: 20px;
+    line-height: 16px;
+}
+.product_rating ul {
+    padding-left: 0;
+}
+.product_rating li {
+    display: inline-block;
+}
+
+.diffIcon{
+    fill: #c09578;
+    font-size: 14px;
+}
+
+.product_rating {
+    margin-bottom: 30px;
+}
+
+.slick-dots li {
+    margin: 0 !important;
+}
+
+.slick-dots li button {
+    display: block !important;
+}
+
+.slick-dots li button::before {
+    opacity: 1 !important;
+    color: #ebebeb !important;
+    font-size: 10px !important;
+}
+
+.slick-dots li.slick-active button::before {
+    color: #c09578 !important;
+}

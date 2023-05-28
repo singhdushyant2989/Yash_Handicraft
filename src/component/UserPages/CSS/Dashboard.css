@@ -1,0 +1,109 @@
+.main_content_area {
+    padding-bottom: 65px;
+}
+
+.nav-pills .nav-link {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    background: #212121;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+.nav-pills .nav-link:hover {
+    background: #c09578;
+}
+
+.nav-pills .nav-link.active {
+    background: #c09578;
+}
+
+.dashboard_content h3 {
+    font-size: 22px;
+    text-transform: capitalize;
+    color: #242424;
+    margin-bottom: 15px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.dashboard_content p a {
+    font-weight: 500;
+}
+
+.billingAddress {
+    float: left;
+    padding-right: 10px;
+}
+
+.shippingAddress {
+    float: right;
+    padding-left: 10px;
+}
+
+.billingAddress h4, .shippingAddress h4 {
+    color: #212121;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.account_form form {
+    border: 1px solid #ebebeb;
+    padding: 23px 20px 29px;
+    border-radius: 5px;
+}
+
+.account_form label {
+    font-size: 15px;
+    font-weight: 400;
+    color: #212121;
+    cursor: pointer;
+    line-height: 12px;
+    margin-bottom: 12px;
+}
+
+.account_form input {
+    max-width: 100%;
+}
+ 
+.account_login_form form input, .account_login_form form select {
+    border: 1px solid #ddd;
+    background: none;
+    height: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 0 20px;
+    color: #5a5a5a;
+}
+
+.account_form button {
+    background: #c09578;
+    border: 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    height: 34px;
+    line-height: 21px;
+    padding: 5px 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.input-radio span {
+    color: #212121;
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+.input-radio span input[type="radio"], .account_login_form form span input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+    margin-right: 4px;
+    position: relative;
+    top: 2px;
+}

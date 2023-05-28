@@ -1,0 +1,57 @@
+.about_section {
+    padding-bottom: 61px;
+}
+
+.about_thumb {
+    margin-bottom: 21px;
+}
+
+.about_content h1 {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #242424;
+    margin-bottom: 15px;
+}
+
+.about_content p {
+    color: #5a5a5a;
+    margin-bottom: 16px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.about_content span {
+    color: #c09578;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.chooseus_area {
+    margin-bottom: 65px;
+}
+
+.choose_title {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.choose_content h3, .about_gallery_content h3 {
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #242424;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+
+.about_gallery {
+    margin-bottom: 61px;
+}
+
+.gallery_thumb {
+    margin-bottom: 18px;
+}
+

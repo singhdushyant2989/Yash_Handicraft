@@ -1,0 +1,90 @@
+.accordian_area {
+    padding-bottom: 70px;
+}
+
+.menu_accordian {
+    background: #fff;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tab.tab-accord {
+    border: none;
+    margin-bottom: 10px;
+}
+
+.tab.tab-accord:last-child {
+    margin-bottom: 0;
+}
+
+/* .tab {
+    position: relative;
+    
+} */
+
+
+
+.card-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 45px;
+    padding: 0 10px 0 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    background: #f2f2f2;
+    border: 1px solid #ebebeb;
+}
+
+.card-btn h2 {
+    color: #242424;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.card-btn.active {
+    border: 1px solid #c09578;
+    background: rgba(0,0,0,.03);
+}
+
+.card-btn.active h2 {
+    width: 100%;
+    text-align: left;
+    color: #c09578;
+    font-size: 14px;
+}
+
+.card-btn .icone .icon-icon {
+    fill: #BCBCBC;
+}
+
+/* header.active span {
+    rotate: -180deg;
+} */
+
+.display-icon {
+    display: none;
+}
+
+.menu_accordian span {
+    transition: 0.3s;
+}
+
+.collapse {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    transition: h0.3s;
+}
+
+.collapse.show {
+    height: auto;
+    border-bottom: 1px solid #c09578;
+    border-left: 1px solid #c09578;
+    border-right: 1px solid #c09578;
+}
+
+.card-body {
+    padding: 1rem;
+}

@@ -1,0 +1,35 @@
+.privacy_policy_main_area {
+    padding: 26px 0 35px;
+}
+
+.privacy_content.section_2 h2 {
+    margin-bottom: 24px;
+}
+
+.privacy_content h2 {
+    font-size: 22px;
+    line-height: 22px;
+    margin-bottom: 7px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.privacy_content p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 19px;
+    color: #212121;
+}
+
+.privacy_content p a {
+    color: #a43d21;
+    text-decoration: none;
+}
+
+.privacy_content h3 {
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 500;
+    margin-bottom: 7px;
+    color: #212121;
+}

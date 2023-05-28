@@ -1,0 +1,25 @@
+.slider_area {
+    margin-bottom: 35px;
+}
+
+.slider_area .slick-slide {
+    padding: 0;
+}
+.whole_img {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    /* width: 100vw; */
+    /* margin-left: -0.2vw; */
+    /* height: 100%; */
+}
+
+.slider_area .slick-dots {
+    position: absolute;
+    bottom : 20px;
+}
+
+.slider_area ul.slick-dots li.slick-active button::before {
+    font-size: 13px !important;
+}

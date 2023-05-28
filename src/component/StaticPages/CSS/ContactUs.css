@@ -1,0 +1,81 @@
+.contact_map {
+    margin-bottom: 67px;
+}
+
+.map-area #googleMap {
+    height: 460px;
+    width: 100%;
+}
+
+.contact_area {
+    margin-bottom: 70px;
+}
+
+.contact_message h3 {
+    font-size: 21px;
+    text-transform: capitalize;
+    color: #242424;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 25px;
+}
+
+.contact_message ul li {
+    padding: 13px 0;
+    border-top: 1px solid #ebebeb;
+}
+
+.contact_message ul li svg {
+    margin-right: 10px;
+}
+
+.contact_message p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+.contact_message label {
+    line-height: 18px;
+    color: #212121;
+    font-weight: 500;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.contact_message input {
+    border: 1px solid #ebebeb;
+    height: 45px;
+    background: #fff;
+    width: 100%;
+    padding: 0 20px;
+    color: #5a5a5a;
+}
+
+.contact_message textarea {
+    height: 170px;
+    border: 1px solid #ebebeb;
+    background: #fff;
+    resize: none;
+    width: 100%;
+    padding: 10px 20px;
+    color: #5a5a5a;
+}
+
+.contact_message button {
+    font-weight: 400;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 30px;
+    text-transform: capitalize;
+    border: none;
+    background: #242424;
+    color: #fff;
+    transition: 0.3s;
+    border-radius: 4px;
+}
+
+.contact_message button:hover {
+    background: #c09578;
+}

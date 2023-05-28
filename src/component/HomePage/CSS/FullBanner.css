@@ -1,0 +1,42 @@
+.FullImage{
+    background: url('../../images/Full_Banner/e9234fa4-3ff6-4a6e-a00e-0c9ff26e7b20-1670180400.jpg') no-repeat  scroll center center/cover;
+    margin-bottom: 64px;
+}
+.FullImage .row {
+    height: 510px;
+}
+.banner_text {
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 90%;
+    margin: 0 auto;
+}
+.banner_text:hover {
+    transform: scale(1.05);
+}
+.banner_text h2 {
+    font-size: 50px;
+    line-height: 65px;
+    margin-bottom: 10px;
+    color: #242424;
+    font-weight: 700;
+}
+.banner_text span{
+    font-size: 16px;
+    margin: 0;
+    display: block;
+}
+.banner_text a {
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #c09578;
+    border: 2px solid #c09578;
+    padding: 0 45px;
+    border-radius: 3px;
+    margin-top: 70px;
+    line-height: 46px;
+    display: inline-block;
+    text-decoration: inherit;
+}
